@@ -1,8 +1,6 @@
 # 🔬 Intelligent FPGA-Inspired Supervisory Control System for a 100 Gbps WDM Optical Communication Network
 
-<p align="center">
-  <img src="100Gbps_WDM_Photonics_System_Architecture_with_FPGA_Control.png" alt="System Architecture" width="800"/>
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Domain-Optical%20Communications-blue?style=for-the-badge"/>
